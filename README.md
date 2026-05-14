@@ -10,7 +10,7 @@ and instantly get the win probability for both teams.
 ---
 
 ## 🖥️ Live App
-👉 **[Try it here]([https://ipl-win-predictor-azam.streamlit.app](https://azam-ipl-win-predictor.streamlit.app/))**
+👉 **[Try it here](https://ipl-win-predictor-azam.streamlit.app)**
 
 ![App Screenshot](screenshots/app_preview.png)
 
