@@ -12,8 +12,8 @@ and instantly get the win probability for both teams.
 ## 🖥️ Live App
 👉 **[Try it here](https://ipl-win-predictor-azam.streamlit.app)**
 
-![App Screenshot](screenshots/app_preview.png)
-
+![alt text](https://github.com/azam-1125/ipl-win-predictor/blob/2d5c74c8f556734ee9d615cee7e14d7dae6eee08/screenshots/Screenshot%202026-05-14%20113332.png)
+![alt text](https://github.com/azam-1125/ipl-win-predictor/blob/2d5c74c8f556734ee9d615cee7e14d7dae6eee08/screenshots/Screenshot%202026-05-14%20113418.png)
 ---
 
 ## 🔍 Problem Statement
@@ -141,5 +141,5 @@ streamlit run app/app.py
 ## 👤 Author
 **Shaik Azam Hussain**
 - 📧 shaikazam1125@gmail.com
-- 💼 [LinkedIn](https://linkedin.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shaik-azam-hussain/)
 - 🐙 [GitHub](https://github.com/azam-1125)
